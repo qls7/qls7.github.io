@@ -12,3 +12,5 @@ www.qls.ink
 5.Git管理源代码学习笔记
 
 6.Python面试题总结
+
+7.Django项目之meiduo商城
