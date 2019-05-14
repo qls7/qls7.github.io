@@ -14,3 +14,5 @@ www.qls.ink
 6.Python面试题总结
 
 7.Django项目之meiduo商城
+
+声明:笔记是用的幕布(一款笔记编辑软件)写的,如果需要下载或收藏笔记请先点击下载:https://mubu.com/inv/2931609
