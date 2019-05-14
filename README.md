@@ -1,4 +1,4 @@
-# Python 学习笔记交流 ^_^
+# Python 学习笔记仅供学习交流 ^_^
 www.qls.ink
 
 1.Python基础学习笔记
