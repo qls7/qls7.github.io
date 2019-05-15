@@ -1,5 +1,5 @@
 # Python 学习笔记仅供学习交流 ^_^
-[www.qls.ink](www.qls.ink)
+www.qls.ink
 
 [1.Python基础](https://mubu.com/doc/dCWWAB7gKw)
 
