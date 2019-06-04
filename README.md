@@ -16,6 +16,8 @@
 
 [7.Django项目之meiduo商城](https://mubu.com/doc/zGOPz1M5m0)
 
+[8.Django项目之meiduo商城答辩A&Q](https://mubu.com/doc/eKmtXc54Gw)
+
 
 
 声明:此笔记是用幕布(一款笔记编辑软件)写的,如果需要下载或收藏笔记请先[点击下载](https://mubu.com/inv/2931609)
