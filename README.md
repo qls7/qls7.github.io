@@ -16,7 +16,7 @@
 
 [7.Django项目之meiduo商城](https://mubu.com/doc/zGOPz1M5m0)
 
-[8.Django项目之meiduo商城答辩A&Q](https://mubu.com/doc/eKmtXc54Gw)
+[8.meiduo商城项目答辩A&Q](https://mubu.com/doc/eKmtXc54Gw)
 
 [9.DRF框架](https://mubu.com/doc/muEMOSTNk0)
 
