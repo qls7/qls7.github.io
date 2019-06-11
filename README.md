@@ -20,7 +20,7 @@
 
 [9.DRF框架](https://mubu.com/doc/muEMOSTNk0)
 
-[10.Python面试宝典](./Python面试宝典)
+[10.Python面试宝典](./Python面试宝典.pdf)
 
 
 
