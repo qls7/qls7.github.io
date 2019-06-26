@@ -24,7 +24,11 @@
 
 [11.Meiduo后台项目](https://mubu.com/doc/BuBnArSdO0)
 
+[12.Nginx&Docker项目部署](https://mubu.com/doc/dGhvixKCSw)
 
-声明:此笔记是用幕布(一款笔记编辑软件)写的,如果需要下载或收藏笔记请先[点击下载](https://mubu.com/inv/2931609)
+[13.PostgreSQL数据库](https://mubu.com/doc/zmReeBLNe0)
 
->[CSDN 个人博客](https://me.csdn.net/weixin_44781813)
+
+>此笔记是用幕布写的,需要下载笔记请[点击](https://mubu.com/inv/2931609)
+
+>[CSDN 更多笔记](https://me.csdn.net/weixin_44781813)
