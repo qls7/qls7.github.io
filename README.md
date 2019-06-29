@@ -28,6 +28,8 @@
 
 [13.PostgreSQL数据库](https://mubu.com/doc/zmReeBLNe0)
 
+[14.Flask框架](https://mubu.com/doc/fGePWlUTaw)
+
 
 注:此笔记是用幕布写的,需要下载笔记请[点击](https://mubu.com/inv/2931609)
 
