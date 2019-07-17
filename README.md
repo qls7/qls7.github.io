@@ -32,6 +32,7 @@
 
 [15.Flask项目之HeiMa头条](https://mubu.com/doc/eNxiooPlqw)
 
+[16.Flask项目之常见问题总结](https://mubu.com/doc/adUrZkp7qw)
 
 注:此笔记是用幕布写的,需要下载笔记请[点击](https://mubu.com/inv/2931609)
 
