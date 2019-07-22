@@ -34,6 +34,8 @@
 
 [16.Flask项目之常见问题总结](https://mubu.com/doc/adUrZkp7qw)
 
+[17.机器学习(基础)](https://mubu.com/doc/Bv_FS4nuE0)
+
 注:此笔记是用幕布写的,需要下载笔记请[点击](https://mubu.com/inv/2931609)
 
 >[CSDN 个人博客](https://blog.csdn.net/weixin_44781813)
