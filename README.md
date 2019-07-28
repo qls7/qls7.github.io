@@ -36,7 +36,7 @@
 
 [17.机器学习(基础)](https://mubu.com/doc/Bv_FS4nuE0)
 
-[17.机器学习(算法)](https://mubu.com/doc/9MmMBQoMYw)
+[18.机器学习(算法)](https://mubu.com/doc/9MmMBQoMYw)
 
 注:此笔记是用幕布写的,需要下载笔记请[点击](https://mubu.com/inv/2931609)
 
